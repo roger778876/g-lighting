@@ -1,0 +1,20 @@
+#HEAD
+push
+move
+200 200 0
+rotate
+y 30
+sphere
+0 0 0 50
+pop
+push
+move
+300 200 0
+rotate
+y 30
+sphere
+0 0 0 50
+pop
+display
+save
+ballz.png
